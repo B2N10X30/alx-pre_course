@@ -1,3 +1,3 @@
 scriptix -Alx project
 
-This is a script created by junior devs at the Alx Software Engineering school.
+This is a software develpoed by junior devs at the ALX Software engineering school.
